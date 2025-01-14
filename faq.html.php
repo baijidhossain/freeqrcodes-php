@@ -49,28 +49,10 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
               </button>
-              <div class="max-h-0 overflow-hidden transition-all duration-300" style="">
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
                 <p class="p-4 px-6 py-4 text-gray-600">
                   Yes! Our platform is free to use for creating basic QR codes. Premium features are also available for
                   advanced customization.
-                </p>
-              </div>
-            </div>
-
-            <!-- Item 3 -->
-            <div class="rounded-md">
-              <button
-                class="border-b flex focus:outline-none font-semibold items-center justify-between px-6 py-4 text-gray-800 text-left w-full"
-                onclick="toggleFAQ(this)">
-                <span>How can I contact support?</span>
-                <svg class="w-5 h-5 transform transition-transform" xmlns="http://www.w3.org/2000/svg" fill="none"
-                  viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                </svg>
-              </button>
-              <div class="max-h-0 overflow-hidden transition-all duration-300" style="">
-                <p class="p-4 px-6 py-4 text-gray-600">
-                  You can contact us via the support form on our website or by emailing support@freeqrcodes.link.
                 </p>
               </div>
             </div>
@@ -86,9 +68,9 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
               </button>
-              <div class="max-h-0 overflow-hidden transition-all duration-300" style="">
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
                 <p class="px-6 py-4 text-gray-600">
-                  Yes, we offer customizable options for the QR codes, including colors, logos, and more.
+                  Yes, we offer customizable options for the QR codes.
                 </p>
               </div>
             </div>
@@ -104,7 +86,7 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
               </button>
-              <div class="max-h-0 overflow-hidden transition-all duration-300" style="">
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
                 <p class="p-4 px-6 py-4 text-gray-600">
                   After creating your QR code, simply click on the "Download" button to save it in various formats.
                 </p>
@@ -122,14 +104,50 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
               </button>
-              <div class="max-h-0 overflow-hidden transition-all duration-300" style="">
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
                 <p class="px-6 py-4 text-gray-600">
                   The process is almost instant. QR codes are generated in just a few seconds.
                 </p>
               </div>
             </div>
 
-            <!-- Continue for items 7 to 15... -->
+            <!-- Item 7 -->
+
+            <div class="rounded-md">
+              <button
+                class="border-b flex focus:outline-none font-semibold items-center justify-between px-6 py-4 text-gray-800 text-left w-full"
+                onclick="toggleFAQ(this)">
+                <span>Are there any limitations on QR code usage?</span>
+                <svg class="w-5 h-5 transform transition-transform" xmlns="http://www.w3.org/2000/svg" fill="none"
+                  viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </button>
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
+                <p class="px-6 py-4 text-gray-600">
+                  No, there are no limitations. You can create and use QR codes freely without any restrictions.
+                </p>
+              </div>
+            </div>
+
+            <!-- Item 9 -->
+            <div class="rounded-md">
+              <button
+                class="border-b flex focus:outline-none font-semibold items-center justify-between px-6 py-4 text-gray-800 text-left w-full"
+                onclick="toggleFAQ(this)">
+                <span>Is my data safe on FreeQRCodes.link?</span>
+                <svg class="w-5 h-5 transform transition-transform" xmlns="http://www.w3.org/2000/svg" fill="none"
+                  viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </button>
+              <div class="max-h-0 overflow-hidden transition-all duration-300">
+                <p class="px-6 py-4 text-gray-600">
+                  Absolutely! We prioritize data security and do not store or share your QR code content with third
+                  parties without your consent.
+                </p>
+              </div>
+            </div>
 
           </div>
         </div>
