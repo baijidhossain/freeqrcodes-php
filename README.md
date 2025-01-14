@@ -1,0 +1,1 @@
+# freeqrcodes-php
