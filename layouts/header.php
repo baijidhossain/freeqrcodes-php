@@ -53,7 +53,6 @@ switch ($current_page) {
 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -76,14 +75,14 @@ switch ($current_page) {
   <meta property="og:url" content="<?= $APP_URL . '/' . $current_page ?>.html">
   <meta property="og:title" content="<?= $page_title ?>">
   <meta property="og:description" content="<?= $meta_description ?>">
-  <meta property="og:image" content="<?= $APP_URL ?>/public/images/og-image.png">
+  <meta property="og:image" content="<?= $APP_URL ?>/public/images/og-image.jpg">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="image">
   <meta property="twitter:url" content="<?= $APP_URL . '/' . $current_page ?>.html">
   <meta property="twitter:title" content="<?= $page_title ?>">
   <meta property="twitter:description" content="<?= $meta_description ?>">
-  <meta property="twitter:image" content="<?= $APP_URL ?>/public/images/og-image.png">
+  <meta property="twitter:image" content="<?= $APP_URL ?>/public/images/twitter-image.jpg">
 
   <!-- no index meta tag -->
   <!-- <meta name="robots" content="noindex"> -->
